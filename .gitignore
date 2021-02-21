@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+#SQL Server and Passord
+postgresql+psycopg2://postgres:postgres@localhost:5433/EmployeeSQL
